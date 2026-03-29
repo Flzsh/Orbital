@@ -44,7 +44,7 @@ A macOS Dynamic Island–style floating desktop widget for Windows, built with W
 ```bash
 git clone https://github.com/Flzsh/Orbital.git
 cd Orbital
-dotnet run --project "Study Island/Study Island.csproj"
+dotnet run --project "Orbital/Orbital.csproj"
 ```
 
 ## Configuration
