@@ -1,6 +1,6 @@
 # Orbital
 
-A macOS Dynamic Island–style floating desktop widget for Windows, built with WPF and .NET 10.
+A IOS Dynamic Island–style floating desktop widget for Windows, built with WPF and .NET 10.
 
 ![Windows](https://img.shields.io/badge/platform-Windows-blue)
 ![.NET 10](https://img.shields.io/badge/.NET-10-purple)
